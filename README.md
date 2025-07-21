@@ -57,9 +57,9 @@ LiveKit speaks decisions made by sub-agents live, and finally reads out the comp
 
 ## 🧪 Screenshots
 
-![Demo 1](./demo1.jpeg)
+![Demo 1](./demo1.jpg)
 
-![Demo 2](./demo2.jpeg)
+![Demo 2](./demo2.jpg)
 
 ---
 
