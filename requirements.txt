@@ -1,0 +1,16 @@
+langchain
+langgraph
+langchain_community
+faster-whisper
+sounddevice
+scipy
+langchain-groq
+pillow
+amadeus
+geopy
+langchain_google_genai 
+python-dateutil
+pyaudio
+livekit-agents 
+livekit-plugins-groq 
+livekit-plugins-silero
